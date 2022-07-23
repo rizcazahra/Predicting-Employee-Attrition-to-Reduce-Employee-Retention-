@@ -6,7 +6,7 @@ This dataset is from technology start-up. The company is currently being hit by 
 This notebook will present descriptive findings from data using visualization and converting Machine Learning's model findings into a story.
 
 Steps in this notebook:
-1. Data Preprocessing: handle missing values, change invalid value, and drop unnecessary data
+1. Data Preprocessing: handle missing values, change invalid value, and drop unnecessary data, handle imbalance data with SMOTEENN, SMOTETomek, RandomUnderSampler, TomekLinks, EditedNearestNeighbours
 2. Exploratory Data Analysis
 * Percentage of Employees per Division Who Did Not Resign
 * Number of Employees of Data Analyst Division based on Career Path, Performance, and Recent Conditions in the Company
